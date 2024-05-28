@@ -1,6 +1,6 @@
 # DevTest Engineering assessment
 
-As part of the DevTest engineering assessment, the candidate will be required to complete the take-home assessment for a total of 3 nights (3 days). After the time has passed, the candidate should let the recruiter know and do not do any updates or commits with the penalty of being removed from the hiring process.
+As part of the DevTest engineering assessment, the candidate will be required to complete the take-home assessment for a total of 3 nights (72hr). After the time has passed, the candidate should let the recruiter know and do not do any updates or commits with the penalty of being removed from the hiring process.
 
 Based on an example of a job board [Plus Network](https://plusnetwork.netlify.app/), you will be required to replicate the same concept and its features and add your own styles on top of it if you like.
 
