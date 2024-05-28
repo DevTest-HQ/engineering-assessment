@@ -2,6 +2,8 @@
 
 As part of the DevTest engineering assessment, the candidate will be required to complete the take-home assessment for a total of 3 nights (3 days). After the time has passed, the candidate should let the recruiter know and do not do any updates or commits with the penalty of being removed from the hiring process.
 
+Based on an example of a job board [Plus Network](https://plusnetwork.netlify.app/), you will be required to replicate the same concept and its features and add your own styles on top of it if you like.
+
 ## Criteria
 You will be assessed based on the following:
 - Code quality
@@ -13,8 +15,8 @@ You will be assessed based on the following:
 - Project structure and architecture
 - UI/UX Design Skills
 - Design System
-- Proficiency in Javascript/Typescript
 - State management
+- Proficiency in Javascript/Typescript
 - ES6 syntax including arrow functions, destructuring and async/await
 - Proper side effects handling, loading state, and errors
 - Implement daily tools used daily in software development, such as linters, code formatting, Docker…
@@ -29,6 +31,8 @@ You will be assessed based on the following:
 We understand that full-stack development expands to many different areas. Hence, you will have the choice to choose the stack you are most confident with:
 
 #### Frontend
+- (DO NOT CREATE A BACKEND MODULE)
+- The tech stack to use must include any React.js framework (Vite, CRA, Next...).
 - You can replicate the following UI/UX or you can also opinate your own design
 - The user should apply to the job
 - The user should be able to save/like the job
@@ -39,6 +43,8 @@ We understand that full-stack development expands to many different areas. Hence
 - State Management
 
 #### Backend
+- (DO NOT CREATE A FRONTEND MODULE)
+- The tech stack to use must include any Node.js (Express, Fastify, Nest...) framework.
 - The user should be able to login/sign-up
 - The user should be able to reset the password by receiving a temporary email or an OTP confirmation
 - The user should apply for the job, and receive an email
